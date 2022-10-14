@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# matplotlib_practice.ipynb
+# DS_Store
+# Analysis/.DS_Store
+# Resources/.DS_Store
